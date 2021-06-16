@@ -1,0 +1,24 @@
+body{
+    background-color: black;
+    height: 95vh;
+    width: 95vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+   
+}
+
+.snake {
+    width: 100px;
+    background-image: url(/image/cp2077-8.jpg);
+}
+
+h1{
+    font-family: 'Press Start 2P', cursive;
+    font-size: px;
+    color: rgb(52, 165, 52);
+    background-image: url(/image/cp2077-8.jpg);
+
+}
+
