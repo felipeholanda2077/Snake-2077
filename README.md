@@ -11,14 +11,13 @@
   <a href="#-sobre-o-projeto">Sobre</a> •
   <a href="#-Tecnologias">Tecnologias</a> • >
 </p>
+<br>
 
-<h4 aling="center">
-  🚧 Projeto Snake-2077 🚀 Em construção... 🚧
+<p aling="center">
+ <h4> 🚧 Projeto Snake-2077 🚀 Em construção... 🚧
   </h4>
 
-  <h1 aling="center">
-   <img alt="Readme" title="Readme" src="Back.png" />
-</h1>
+
 
 <!--Sobre o projeto-->
 ## 💻 Sobre o projeto
