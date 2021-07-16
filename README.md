@@ -9,7 +9,7 @@
 <!-- Indice-->
 <p align="center">
   <a href="#-sobre-o-projeto">Sobre</a> •
-  <a href="#-Tecnologias">Tecnologias</a> • >
+  <a href="#-Tecnologias">Tecnologias</a>
 </p>
 <br>
 
@@ -25,7 +25,7 @@
 No bootcamp da Digital Innovation One em especial no curso de HTML Web developer  tivemos como desafio de projeto recriar o famoso jogo **Snake**.
 
 
-## 🚀  Tecnologias
+## Tecnologias
 
 - [x] **HTML**
 - [x] **CSS**
