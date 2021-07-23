@@ -9,16 +9,21 @@
 <!-- Indice-->
 <p align="center">
   <a href="#-sobre-o-projeto">Sobre</a> •
-  <a href="#-Tecnologias">Tecnologias</a> • >
+  <a href="#-Tecnologias">Tecnologias</a>
 </p>
+<br>
 
-<h4 aling="center">
-  🚧 Projeto Snake-2077 🚀 Em construção... 🚧
+<p aling="center">
+ <h4> 🚧 Projeto Snake-2077 🚀 Em construção... 🚧
   </h4>
 
+<<<<<<< HEAD
   <h1 aling="center">
    <img alt="Readme" title="Readme" src="Animação.gif"/>
 </h1>
+=======
+
+>>>>>>> 33dd586c864ee0a3ac025e1afab842b3a9654080
 
 <!--Sobre o projeto-->
 ## 💻 Sobre o projeto
@@ -26,7 +31,7 @@
 No bootcamp da Digital Innovation One em especial no curso de HTML Web developer  tivemos como desafio de projeto recriar o famoso jogo **Snake**.
 
 
-## 🚀  Tecnologias
+## Tecnologias
 
 - [x] **HTML**
 - [x] **CSS**
