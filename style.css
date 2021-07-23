@@ -6,19 +6,20 @@ body{
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    background-image: url(image/443573.jpg);
    
 }
 
 .snake {
     width: 100px;
-    background-image: url(/image/cp2077-8.jpg);
+    background-image: url(cp2077-8.jpg);
 }
 
 h1{
     font-family: 'Press Start 2P', cursive;
     font-size: px;
     color: rgb(52, 165, 52);
-    background-image: url(/image/cp2077-8.jpg);
+    background-color: black;
 
 }
 
