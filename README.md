@@ -20,9 +20,6 @@
 <h1 aling="center">
    <img alt="Readme" title="Readme" src="Animação.gif"/>
 </h1>
-=======
-
->>>>>>> 33dd586c864ee0a3ac025e1afab842b3a9654080
 
 <!--Sobre o projeto-->
 ## 💻 Sobre o projeto
