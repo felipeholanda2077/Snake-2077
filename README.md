@@ -4,11 +4,11 @@
 </p>
 <br>
 
-<p aling="center">
+<p align="center">
  <h4> 🚧 Projeto Snake-2077 🚀 Em construção... 🚧
   </h4>
 
-<h1 aling="center">
+<h1 align="center">
    <img alt="Readme" title="Readme" src="Animação.gif"/>
 </h1>
 
