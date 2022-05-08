@@ -16,7 +16,7 @@
  <h4 align="center"> 🚧 Projeto Snake-2077 🚀 Em construção... 🚧
   </h4>
 
-# imagem
+<h1 align="center">Imagem</h1>
 
 <h1 align="center">
    <img alt="Readme" title="Readme" src="Animação.gif"/>
