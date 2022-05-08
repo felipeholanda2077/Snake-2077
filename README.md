@@ -4,10 +4,12 @@
    </a>
 </p>
 
-<p align="center">
-  <a href="#-sobre-o-projeto">Sobre</a> •
-  <a href="#tecnologias">Tecnologias</a>
-</p>
+<p align="center">Índice<br>
+<a href="#sobre">Sobre</a> •
+<a href="#Imagem">Imagem</a> •
+<a href="#Tecnologias-">Tecnologias</a> •
+<a href="#Ferramentas">Ferramentas</a></p>
+
 <br>
 
 <p align="center">
