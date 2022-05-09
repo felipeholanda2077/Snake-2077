@@ -14,8 +14,9 @@
 
 <br>
 
-<h1 align="center">Sobre o Projeto</h1>
+<h1 align="center">💻 Sobre o Projeto</h1>
  <h4 align="center"> 🚧 Projeto Snake-2077 🚀 Em construção... 🚧
+   <h3>No bootcamp da Digital Innovation One em especial no curso de HTML Web developer  tivemos como desafio de projeto recriar o famoso jogo **Snake**.</h3>
   </h4>
   
   <br>
@@ -25,9 +26,6 @@
 <h1 align="center">
    <img alt="Readme" title="Readme" src="Animação.gif"/>
 </h1>
-
-<!--Sobre o projeto-->
-<h2 align="center">💻 Sobre o projeto</h2>
 
 No bootcamp da Digital Innovation One em especial no curso de HTML Web developer  tivemos como desafio de projeto recriar o famoso jogo **Snake**.
 
