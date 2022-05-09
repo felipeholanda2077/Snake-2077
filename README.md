@@ -17,6 +17,8 @@
 <h1 align="center">Sobre o Projeto</h1>
  <h4 align="center"> 🚧 Projeto Snake-2077 🚀 Em construção... 🚧
   </h4>
+  
+  <br>
 
 <h1 align="center">Imagem</h1>
 
@@ -42,7 +44,3 @@ No bootcamp da Digital Innovation One em especial no curso de HTML Web developer
 
 
 <h4 align=center>Desenvolvido por Felipe Holanda <a href="https://www.linkedin.com/in/felipe-holanda-de-freitas-3a91281a2/"><strong>Entre em contato</strong> :)</a></a></h4>
-
-
-
-
